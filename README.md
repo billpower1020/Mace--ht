@@ -1,2 +1,2 @@
 #MACE Ht 
-#将mace模型接入到HTMC软件里
+/将mace模型接入到HTMC软件里
